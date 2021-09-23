@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "curso-herera"
+    }
+  },
+  "defaultProject": "curso-herera",
+  "cli": {
+    "analytics": "4582b3df-01c7-42b7-b113-18fa21df43dd"
+  }
 }
